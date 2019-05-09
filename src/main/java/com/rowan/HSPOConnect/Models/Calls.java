@@ -1,7 +1,6 @@
-package Models;
+package com.rowan.HSPOConnect.Models;
 
-import Models.Person.Complainant;
-import Models.Person.Offender;
+import com.rowan.HSPOConnect.Models.Person.Offender;
 import lombok.Data;
 
 import javax.persistence.Entity;

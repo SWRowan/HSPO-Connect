@@ -1,4 +1,4 @@
-package Models.Person;
+package com.rowan.HSPOConnect.Models.Person;
 
 import lombok.Data;
 
@@ -9,5 +9,6 @@ public abstract class Person {
     private String lastName;
     private String address;
     private String phoneNumber;
+    private String personNumber;
 
 }
